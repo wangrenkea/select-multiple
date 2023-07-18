@@ -1,0 +1,2 @@
+# select-multiple
+手动封装vantui中的DropdownMenu组件并扩展多选功能
